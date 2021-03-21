@@ -1,7 +1,29 @@
+ body {
+  background-image: url('../pictures/burgerc.jpg');
+  margin: 30px;
+  padding: 20px;
+  
+  
+  
+ }
+ .main {
+   background-color: white;
+   font-family: 'Staatliches', cursive;
+   margin: 20px;
+   padding: 20px;
+ }
+ .burger {
+   color: red;
+ }
+ h2 {
+   /* color: red; */
+   font-size: xx-large;
+ }
 li {
   padding: 5px;
   margin: 5px;
-  background: #faebd7;
+  background: white;
+  color: red;
 }
 
 .label {
@@ -11,9 +33,10 @@ li {
 .create-update-form {
   padding: 5px;
   margin: 5px;
-  background: aqua;
+  background:white;
 }
 
 .form-group {
   margin-bottom: 5px;
+  background-color: white;
 }
